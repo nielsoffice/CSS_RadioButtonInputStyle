@@ -13,6 +13,9 @@ Add CSS input field radius customize
 
 ```CSS
 
+/* default: 
+input[type='radio'] { accent-color: #658461; } */ 
+
 /* active layput */
 input[type='radio'].active {
   -webkit-appearance: none;
